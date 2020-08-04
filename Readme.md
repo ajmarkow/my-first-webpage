@@ -17,7 +17,7 @@ _Not to my knowledge, it works well._
 _Contact me via my github profile if you have any questions about running this code._
 
 ## Technologies Used
-_Coded in HTML._
+_Coded in HTML. =)_
 
 ### License
 
