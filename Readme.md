@@ -1,20 +1,25 @@
 Readme.md Template
 
-# _My First Webpage_#### _A website with a list of my favorite things, 8/4/2020_#### By _**AJ Markow**_## Description
+# _My First Webpage_#### _A website with a list of my favorite things, 8/4/2020_
 
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+#### By _**AJ Markow**_
+
+## Description
+_This is a website listing my favorite things for practice in Epicodus._
+
 ## Setup/Installation Requirements*
 _You need to have web hosting to put this on the internet._
 
 ## Known Bugs
 _Not to my knowledge, it works well._
+
 ## Support and contact details
-
 _Contact me via my github profile if you have any questions about running this code._
-## Technologies Used
 
+## Technologies Used
 _Coded in HTML._
-### License*{Determine the license under which this application can be used.  See below for more details on licensing.}*Copyright (c) 2016 **_{List of contributors or company name}_**
+
+### License
 
 _MIT License
 
